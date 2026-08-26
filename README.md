@@ -67,3 +67,30 @@ python parking_management_system.py
 
 `parking_management_system.py`
 
+
+
+
+# Student Attendance Analyzer
+
+A Python-based application that records student attendance and analyzes attendance percentages.
+
+## Features
+
+* Add student details
+* Calculate attendance percentage
+* Display student attendance
+* Find students below 75% attendance
+* Find the student with the highest attendance
+* Calculate class average attendance
+* Generate a complete attendance report
+
+## How to Run
+
+```bash
+python student_attendance_analyzer.py
+```
+
+## File
+
+`student_attendance_analyzer.py`
+
