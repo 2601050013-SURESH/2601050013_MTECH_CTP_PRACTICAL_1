@@ -38,3 +38,32 @@ Element found at index: 4
 ## Technology Used
 
 - Python
+
+
+
+
+
+
+# Parking Management System
+
+A Python-based parking management system that manages vehicle entry, exit, parking slots, vehicle search, and parking charges.
+
+## Features
+
+* Vehicle entry and slot allocation
+* Vehicle exit and parking bill generation
+* Parking slot status
+* Vehicle search
+* Parking availability checking
+* Automatic parking charge calculation
+
+## How to Run
+
+```bash
+python parking_management_system.py
+```
+
+## File
+
+`parking_management_system.py`
+
