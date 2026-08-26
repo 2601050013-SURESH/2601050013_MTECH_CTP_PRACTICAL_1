@@ -84,13 +84,41 @@ A Python-based application that records student attendance and analyzes attendan
 * Calculate class average attendance
 * Generate a complete attendance report
 
-## How to Run
 
-```bash
-python student_attendance_analyzer.py
-```
+
+
+
 
 ## File
 
 `student_attendance_analyzer.py`
+
+
+
+
+# Online Shopping Cart
+
+A Python-based online shopping cart system that allows users to add, remove, and update products and calculate the final bill with discount and GST.
+
+## Features
+
+* Add products to cart
+* Remove products from cart
+* Change product quantity
+* Display shopping cart
+* Calculate subtotal
+* Apply discount
+* Calculate 18% GST
+* Generate final bill
+
+## How to Run
+
+```bash
+python online_shopping_cart.py
+```
+
+## File
+
+`online_shopping_cart.py`
+
 
