@@ -122,3 +122,29 @@ python online_shopping_cart.py
 `online_shopping_cart.py`
 
 
+
+
+
+# Merge Sort
+
+A Python program that sorts a list of elements using the Merge Sort algorithm.
+
+## Features
+
+* Accepts elements from the user
+* Divides the array into smaller parts
+* Sorts and merges the parts
+* Displays the original and sorted arrays
+
+## How to Run
+
+```bash
+python merge_sort.py
+```
+
+## File
+
+`merge_sort.py`
+
+
+
