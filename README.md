@@ -144,6 +144,33 @@ python merge_sort.py
 
 ## File
 
+
+
+
+
+# Quick Sort
+
+A Python program that sorts a list of elements using the Quick Sort algorithm.
+
+## Features
+
+* Accepts elements from the user
+* Selects a pivot element
+* Partitions the array into smaller parts
+* Sorts the elements recursively
+* Displays the original and sorted arrays
+
+## How to Run
+
+```bash
+python quick_sort.py
+```
+
+## File
+
+`quick_sort.py`
+
+
 `merge_sort.py`
 
 
